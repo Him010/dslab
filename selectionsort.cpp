@@ -20,10 +20,7 @@ a[i]=temp;
 
     cout<<a[k];
     }
-
-
-
-
+cout<<"Sorted Array";
  }
 
 
